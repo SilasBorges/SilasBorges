@@ -1,7 +1,7 @@
 ## Olá! Eu sou o SilasBorges
 
 - 🔭 Hoje trabalho como Analista de Suporte 
-- 🌱 Estudando JavaScript e Android
+- 🌱 Estudando Java, Kotlin android
 
 <div>
   <a href="https://github.com/SilasBorges">
