@@ -1,6 +1,6 @@
 ## Olá! Eu sou o SilasBorges
 
-- 🔭 Hoje trabalho como Analista de Suporte 
+- 🔭 Developer Nativo Android Kotlin/Java
 - 🌱 Estudando Java, Kotlin android
 
 <div>
