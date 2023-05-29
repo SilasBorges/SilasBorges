@@ -1,7 +1,7 @@
 ## Olá! Eu sou o SilasBorges
 
 - 🔭 Developer Nativo Android Kotlin/Java
-- 🌱 Estudando atualmente 
+- 🌱 Progamador Android na Crossoften
 - Clean Architecture
 -   MVVM
 -   Modularização 
@@ -11,7 +11,7 @@
 -   Room
 -   Paging3
 -   Unit tests
--   
+-   Koin
 <div>
   <a href="https://github.com/SilasBorges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilasBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
