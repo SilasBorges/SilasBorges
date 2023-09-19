@@ -27,9 +27,9 @@
 - Retrofit
 - Glide
 
-🚀 Especializado em Kotlin
+🚀 Specialized in Kotlin
 
-📚 Sempre em busca de aprendizado e crescimento!
+📚 Always looking for learning and growth!
 
 
   ## 🕹️ Connect with me
