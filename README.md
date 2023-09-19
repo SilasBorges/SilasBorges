@@ -8,9 +8,14 @@
 ### Experience includes (but is not limited to):
 
 - 👨🏻‍💻 Developer with more then 3 years experience
-- 📝 I'm currently looking for a new job
 - 🎓 I have a degree in information systems from Uniessa
+- 👨🏻‍💻 In my years of profession I have also worked with systems support and QA analyst
+
+## My informations
+
+- 📝 I'm currently looking for a new job
 - 💡 I love innovation and new technologies
+- 📄 You can check my [Resume](https://drive.google.com/file/d/116HGVmkV39wAGBaJX4w2V2tv2HS-_Tpq/view?usp=drive_link) for more details about work experience.
 
 ## My experience in android with kotlin
 
