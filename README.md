@@ -1,17 +1,6 @@
-## Hello! I'm Silas Borges, an Android Kotlin developer
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/SilasBorges/5bf4cfeced1ec8641192bbcfdec05228/raw/360d9c97ca4727adf1ad7477e22f007badcb4fd2/githubcard.svg"/>
 
-### Welcome to my GitHub profile!
-## I'm an Android development enthusiast, passionate about clean architecture and high-quality mobile app development. 
-
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
-  
-### Experience includes (but is not limited to):
-
-- 👨🏻‍💻 Developer with more then 3 years experience
-- 🎓 I have a degree in information systems from Uniessa
-- 👨🏻‍💻 In my years of profession I have also worked with systems support and QA analyst
-
-## My informations
+## Hi, I'm Silas Borges
 
 - 📝 I'm currently looking for a new job
 - 💡 I love innovation and new technologies
@@ -35,8 +24,6 @@
 🚀 Specialized in Kotlin
 
 📚 Always looking for learning and growth!
-
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 
   ## 🕹️ Connect with me
 
