@@ -1,31 +1,33 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/SilasBorges/5bf4cfeced1ec8641192bbcfdec05228/raw/360d9c97ca4727adf1ad7477e22f007badcb4fd2/githubcard.svg"/>
 
-## Hi, I'm Silas Borges
+<h2 align="center">Hello, welcome to my GitHub profile.👋</h1>
+<h4 align="center">My name is Silas, I'm a Mobile Developer </h3
+<!--
 
-- 📝 I'm currently looking for a new job
-- 💡 I love innovation and new technologies
-- 📄 You can check my [Resume](https://drive.google.com/file/d/116HGVmkV39wAGBaJX4w2V2tv2HS-_Tpq/view?usp=drive_link) for more details about work experience.
 
-## My experience in android with kotlin
-
-🧰 Tecnologies:
-- Clean Architecture
-- MVVM, MVC
-- Modularização
-- Navigation
-- ViewModel e LiveData
-- Dagger Hilt e Koin
-- Room e Paging3
-- Unit Tests com Detekt
-- Data Binding
-- Retrofit
-- Glide
-
-🚀 Specialized in Kotlin
-
-📚 Always looking for learning and growth!
-
-  ## 🕹️ Connect with me
-
-  <a href="https://www.linkedin.com/in/silasborges/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-  <a href="bsilas871@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+  
+👩🏻‍💻 I'm  a <b> Android Developer </b> looking for a opportunity to colaborate with others developers. <br/>
+💭 I work developing Android apps using Kotlin. <br />
+➡️ I have skills with:
+  - Mobile Android, 
+  - Kotlin Coroutines,
+  - Git,
+  - GitHub
+  - MVVM, 
+  - Android Jetpack.
+  - LiveData and ViewModel
+  - Retrofit
+  - Dagger Hilt Injection 
+  - Koin Dependency Injection <br />
+  
+  
+  Also, I constantly use the tools: Android Studio, Jira, Trello, Discord.
+  
+  <h3> Languages and Tools:<h3/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30" />
+    
+  <h3> Let's connect: <h3/>
+    <a href="https://www.linkedin.com/in/silas-borges/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+ 
+         
